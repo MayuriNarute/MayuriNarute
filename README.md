@@ -1,4 +1,4 @@
- Hi, I'm Mayuri Narute👋
+ <h1>Hi, I'm Mayuri Narute👋</h1>
 
 
 - 🌱 I’m currently learning Python and Django
