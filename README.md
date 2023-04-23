@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning MERN Stack & exploring Competitve Programming Skills as well.<br>📍 Born & Brought Up in Pune.<br>📖 Presently, I'm focusing more in the field of Software Development.<br>🤝 I'm open for collaborations in Java Full Stack Development, Web Development, and Android<br>📞 You are free to go through my repositories and would love to hear suggestions.
+🌱 I'm currently exploring the MERN Stack & learning Competitve Programming as well.<br>📍 Born & Brought Up in Pune.<br>📖 Presently, I'm focusing more in the field of Software Development.<br>🤝 I'm open for collaborations in Java Full Stack Development, Web Development, and Android<br>📞 You are free to go through my repositories and would love to hear suggestions.
 
 
 ## 🌐 Socials:
@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayuriNarute&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MayuriNarute&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MayuriNarute&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MayuriNarute&limit=5&theme=flat&combine_all_yearly_contributions=true)
