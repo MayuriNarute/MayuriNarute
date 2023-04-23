@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently exploring the MERN Stack & learning Competitve Programming as well.<br>📍 Born & Brought Up in Pune.<br>📖 Presently, I'm focusing more in the field of Software Development.<br>🤝 I'm open for collaborations in Java Full Stack Development, Web Development, and Android<br>📞 You are free to go through my repositories and would love to hear suggestions.
+🌱 I'm currently learning MERN Stack & exploring Competitve Programming Skills as well.<br>📍 Born & Brought Up in Pune.<br>📖 Presently, I'm focusing more in the field of Software Development.<br>🤝 I'm open for collaborations in Java Full Stack Development, Web Development, and Android<br>📞 You are free to go through my repositories and would love to hear suggestions.
 
 
 ## 🌐 Socials:
